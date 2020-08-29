@@ -12,10 +12,10 @@ __멜론 플레이리스트 예측: 플레이리스트 태그, 노래 채우기_
   <br>
   
   - genre: 장르정보  
-  <img src="https://user-images.githubusercontent.com/57060127/91639565-8783c880-ea52-11ea-8b03-ffcfb3a6e286.JPG" width="50%"></img>
+  <img src="https://user-images.githubusercontent.com/57060127/91639565-8783c880-ea52-11ea-8b03-ffcfb3a6e286.JPG" width="30%"></img>
   <br>
   
-  - valid: 채워야할 플레이리스트
+  - valid: 채워야할 플레이리스트  
   <br>
   
   
