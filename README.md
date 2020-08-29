@@ -16,7 +16,7 @@ __멜론 플레이리스트 예측: 플레이리스트 태그, 노래 채우기_
   <br>
   
   - valid: 채워야할 플레이리스트  
-  <img src="https://user-images.githubusercontent.com/57060127/91639671-31635500-ea53-11ea-81a5-646353e789ed.JPG" width="30%"></img>
+  <img src="https://user-images.githubusercontent.com/57060127/91639671-31635500-ea53-11ea-81a5-646353e789ed.JPG" width="100%"></img>
   <br>
   
   
