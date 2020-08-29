@@ -4,11 +4,11 @@ __멜론 플레이리스트 예측: 플레이리스트 태그, 노래 채우기_
 
 - Data
   - song_meta: 노래정보
-  <img src="https://user-images.githubusercontent.com/57060127/91639461-bb122300-ea51-11ea-9e82-7965543d5cca.JPG" width="90%"></img>
+  <img src="https://user-images.githubusercontent.com/57060127/91639461-bb122300-ea51-11ea-9e82-7965543d5cca.JPG" width="100%"></img>
   <br>
  
   - train: 플레이리스트정보  
-  <img src="https://user-images.githubusercontent.com/57060127/91639534-3a075b80-ea52-11ea-9a54-75d39b2c63c5.JPG" width="90%"></img>
+  <img src="https://user-images.githubusercontent.com/57060127/91639534-3a075b80-ea52-11ea-9a54-75d39b2c63c5.JPG" width="100%"></img>
   <br>
   
   - genre: 장르정보  
