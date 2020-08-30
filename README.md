@@ -32,7 +32,7 @@ __멜론 플레이리스트 예측: 플레이리스트 태그, 노래 채우기_
   <br>
   
   - song_artist_genre_toptags_id.: 노래당 태그 빈도수별로 태그 정리  
-  <img src="https://user-images.githubusercontent.com/57060127/91657797-f585c980-eafe-11ea-94f5-448ceae9f0bf.JPG" width="90%"></img>
+  <img src="https://user-images.githubusercontent.com/57060127/91657797-f585c980-eafe-11ea-94f5-448ceae9f0bf.JPG" width="100%"></img>
   <br>
   <br>
   
