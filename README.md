@@ -13,7 +13,7 @@ __<멜론 플레이리스트 예측>
   <br>
   
   - genre: 장르정보  
-  <img src="https://user-images.githubusercontent.com/57060127/91639565-8783c880-ea52-11ea-8b03-ffcfb3a6e286.JPG" width="30%"></img>
+  <img src="https://user-images.githubusercontent.com/57060127/91639565-8783c880-ea52-11ea-8b03-ffcfb3a6e286.JPG" width="25%"></img>
   <br>
   <br>
   <br>
