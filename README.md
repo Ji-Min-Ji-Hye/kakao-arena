@@ -26,7 +26,7 @@ __<멜론 플레이리스트 예측>
   
   
   
-- ## Generating Data  
+- ## Generating Data :분석하기 쉬운 형태로 정리한 데이터  
   - All: 노래별 태그 분리  
   <img src="https://user-images.githubusercontent.com/57060127/91657767-814b2600-eafe-11ea-8684-6b771d9f7bea.JPG" width="90%"></img>
   <br>
