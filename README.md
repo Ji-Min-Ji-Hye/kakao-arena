@@ -27,6 +27,7 @@
   
 - ## Generating Data :분석하기 쉬운 형태로 정리한 데이터  
   - All: 노래별 태그 분리  
+  노래이름이 같아도 앨범명에따라 노래 id가 다른것을 알게됨.  
   <img src="https://user-images.githubusercontent.com/57060127/91657767-814b2600-eafe-11ea-8684-6b771d9f7bea.JPG" width="90%"></img>
   <br>
   <br>
@@ -37,6 +38,8 @@
   <br>
   
   
-  - tag_clustering: 
-  - genre_clustering
+  - tag_clustering  
+  약 3
+  - genre_clustering  
+  약 31종류의 장르가 있음.  
   - 
