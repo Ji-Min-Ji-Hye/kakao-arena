@@ -45,5 +45,5 @@
   약 31종류의 장르가 있음.  
   - 13개의 cluster로 clustering  
   
-  - ## valid채우는 방법  
+ - ## valid채우는 방법  
   
