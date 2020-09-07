@@ -35,7 +35,7 @@
   100개의 cluster로 clustering  
   - __genre_clustering__  
   약 31종류의 장르가 있음.  
-  - 13개의 cluster로 clustering  
+  13개의 cluster로 clustering  
   
  - ## valid 채우는 방법  
    - __valid__: 채워야할 플레이리스트  
