@@ -27,20 +27,23 @@
   
   
 - ## Generating Data :분석하기 쉬운 형태로 정리한 데이터  
-  - All: 노래별 태그 분리  
+  - __All: 노래별 태그 분리__  
   p.s) 노래이름이 같아도 앨범명에따라 노래 id가 다른것을 알게됨.  
   <img src="https://user-images.githubusercontent.com/57060127/91657767-814b2600-eafe-11ea-8684-6b771d9f7bea.JPG" width="90%"></img>
   <br>
   <br>
   
-  - song_artist_genre_toptags_id.: 노래당 태그 높은 빈도수순으로 태그 정리  
+  - __song_artist_genre_toptags_id.: 노래당 태그 높은 빈도수순으로 태그 나열__   
   <img src="https://user-images.githubusercontent.com/57060127/91657797-f585c980-eafe-11ea-94f5-448ceae9f0bf.JPG" width="100%"></img>
   <br>
   <br>
   
   
-  - tag_clustering  
-  약 3
-  - genre_clustering  
+  - __tag_clustering__  
+  100개의 cluster로 clustering  
+  - __genre_clustering__  
   약 31종류의 장르가 있음.  
-  - 
+  - 13개의 cluster로 clustering  
+  
+  - ## valid채우는 방법  
+  
