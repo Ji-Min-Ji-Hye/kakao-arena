@@ -18,13 +18,6 @@
   <br>
   <br>
   
-  - __valid__: 채워야할 플레이리스트  
-  목표: 플레이리스트당 노래 100곡, 태그 10개 채우기  
-  <img src="https://user-images.githubusercontent.com/57060127/91639671-31635500-ea53-11ea-81a5-646353e789ed.JPG" width="100%"></img>
-  <br>
-  <br>
-  
-  
   
 - ## Generating Data :분석하기 쉬운 형태로 정리한 데이터  
   - __All: 노래별 태그 분리__  
@@ -46,5 +39,11 @@
   - 13개의 cluster로 clustering  
   
  - ## valid 채우는 방법  
+   - __valid__: 채워야할 플레이리스트  
+  목표: 플레이리스트당 노래 100곡, 태그 10개 채우기  
+  <img src="https://user-images.githubusercontent.com/57060127/91639671-31635500-ea53-11ea-81a5-646353e789ed.JPG" width="100%"></img>
+  <br>
+  <br>
+  
  valid에 있는 플레이리스트안에 노래id의 태그를 확인 => 가장 많이 나온 태그를 추출 => 많이 등장한 태그가 노래 태그에 상위권에 있는 노래로 플레이리스트 채우기, 태그 채우기  
   
