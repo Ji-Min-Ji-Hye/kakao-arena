@@ -1,5 +1,7 @@
 # kakao-arena : 멜론 플레이리스트 예측  
   __플레이리스트 태그, 노래 채우기__  
+  제공데이터: song_meta, genre, train, valid  
+  생성데이터: All, song_artist_genre_toptags_id, tag_clustering, genre_clustering  
 <br>
 
 - ## Data
