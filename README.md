@@ -9,4 +9,4 @@ https://arena.kakao.com/
 [정민지](https://github.com/minji-o-j/kakao-arena/tree/minji)  
 
 ---
-[ ](https://github.com/Ji-Min-Ji-Hye/kakao-arena/compare/master...minji-o-j:master)
+[　](https://github.com/Ji-Min-Ji-Hye/kakao-arena/compare/master...minji-o-j:master)
