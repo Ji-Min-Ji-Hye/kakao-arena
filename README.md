@@ -1,19 +1,24 @@
 # kakao-arena : 멜론 플레이리스트 예측  
-  __플레이리스트 태그, 노래 채우기__  
+  __미션: 플레이리스트 태그, 노래 채우기__  
+  - 제공데이터를 분석하여 valid의 일부 수록된 태그, 노래를 보고 __태그 10개, 노래 100개 채우기__   
+   <img src="https://user-images.githubusercontent.com/57060127/95476627-6358c700-09c2-11eb-88ce-798dda58d15b.JPG" width="100%"></img>  
+   
   제공데이터: song_meta, genre, train, valid  
   생성데이터: All, song_artist_genre_toptags_id, tag_clustering, genre_clustering  
 <br>
 
+
+-------------------------------------------------------------------------------------------------------------------
 - ## Data
-  - __song_meta__: 노래정보
+  - __song_meta__: 노래장르, 발행일, 노래앨범이름, 가수id, 가수이름 정보 (총 707,989개 곡정보)
   <img src="https://user-images.githubusercontent.com/57060127/91639461-bb122300-ea51-11ea-9e82-7965543d5cca.JPG" width="100%"></img>
   <br>
  
-  - __train__: 플레이리스트정보  
+  - __train__: 태그, 플레이리스트 id, 플레이리스트 이름, 노래id, 좋아요수, 발행일 정보 (총 115,071개 플레이리스트정보)  
   <img src="https://user-images.githubusercontent.com/57060127/91639534-3a075b80-ea52-11ea-9a54-75d39b2c63c5.JPG" width="100%"></img>
   <br>
   
-  - __genre__: 장르정보  
+  - __genre__: 대장르, 소장르 정보  
   <img src="https://user-images.githubusercontent.com/57060127/91639565-8783c880-ea52-11ea-8b03-ffcfb3a6e286.JPG" width="25%"></img>
   <br>
   <br>
