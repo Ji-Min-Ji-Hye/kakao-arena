@@ -1,6 +1,9 @@
 # kakao-arena : 멜론 플레이리스트 예측  
   __미션: 플레이리스트 태그, 노래 채우기__  
-  - 제공데이터를 분석하여 valid의 일부 수록된 태그, 노래를 보고 __태그 10개, 노래 100개 채우기__   
+  - 제공데이터를 분석하여 valid의 일부 수록된 태그, 노래를 보고 __태그 10개, 노래 100개 채우기__ 
+  <br>
+  
+  
    <img src="https://user-images.githubusercontent.com/57060127/95476627-6358c700-09c2-11eb-88ce-798dda58d15b.JPG" width="100%"></img>  
    
   제공데이터: song_meta, genre, train, valid  
