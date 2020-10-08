@@ -35,7 +35,7 @@
   <br>
   
   - __song_artist_genre_toptags_id.: 노래별 높은 빈도순으로 태그 나열__   
-  태그정보가 있는 csv에는 노래가 id값으로 들어가 있고, 플레이리스트별 태그정보가 있음  
+  태그정보가 있는 csv에는 노래가 id값으로 들어가 있고, 플레이리스트별 태그정보가 있음(단일노래기준 태그정보 없음)  
   노래별 태그 빈도수를 알아보기위해 노래별 높은 빈도수로 태그를 정리함  
   <img src="https://user-images.githubusercontent.com/57060127/91657797-f585c980-eafe-11ea-94f5-448ceae9f0bf.JPG" width="100%"></img>
   <br>
