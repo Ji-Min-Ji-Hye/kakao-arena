@@ -4,8 +4,8 @@
   <p>
    <img src="https://user-images.githubusercontent.com/57060127/95476627-6358c700-09c2-11eb-88ce-798dda58d15b.JPG" width="100%"></img>  
    
-  제공데이터: song_meta, genre, train, valid  
-  생성데이터: All, song_artist_genre_toptags_id, tag_clustering, genre_clustering  
+  > 제공데이터: song_meta, genre, train, valid  
+  > 생성데이터: All, song_artist_genre_toptags_id, tag_clustering, genre_clustering  
 <br>
 
 
