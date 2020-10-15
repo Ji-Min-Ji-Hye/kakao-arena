@@ -28,24 +28,24 @@
 
 - ## Generating Data :분석하기 쉬운 형태로 정리한 데이터  
   - __All: 노래별 태그 분리__  
-  > 노래특성에 가장 큰 영향을 줄 것이라고 예상되는  __장르,노래이름,가수,태그__ 값을 하나의 데이터로 정리함  
+    > 노래특성에 가장 큰 영향을 줄 것이라고 예상되는  __장르,노래이름,가수,태그__ 값을 하나의 데이터로 정리함  
   이 과정에서 노래이름이 같아도 앨범명에따라 노래 id가 다름을 발견  
   <img src="https://user-images.githubusercontent.com/57060127/91657767-814b2600-eafe-11ea-8684-6b771d9f7bea.JPG" width="90%"></img>
   <br>
   <br>
   
   - __song_artist_genre_toptags_id.: 노래별 높은 빈도순으로 태그 나열__   
-  > 태그정보가 있는 csv에는 노래가 id값으로 들어가 있고, 플레이리스트별 태그정보가 있음(단일노래기준 태그정보 없음)  
+    > 태그정보가 있는 csv에는 노래가 id값으로 들어가 있고, 플레이리스트별 태그정보가 있음(단일노래기준 태그정보 없음)  
   노래별 태그 빈도수를 알아보기위해 노래별 높은 빈도수로 태그를 정리함  
   <img src="https://user-images.githubusercontent.com/57060127/91657797-f585c980-eafe-11ea-94f5-448ceae9f0bf.JPG" width="100%"></img>
   <br>
   <br>
   
   - __tag_clustering__  
-  > 100개의 cluster로 clustering  
+    > 100개의 cluster로 clustering  
   - __genre_clustering__  
-  > 약 31종류의 장르가 있음.  
-  > 13개의 cluster로 clustering  
+    > 약 31종류의 장르가 있음.  
+    > 13개의 cluster로 clustering  
   <br>
   <br>
   
