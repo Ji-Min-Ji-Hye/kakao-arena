@@ -44,10 +44,12 @@
   <br>
   
   - __tag_clustering__  
-    > 100개의 cluster로 clustering  
+  
+   > 100개의 cluster로 clustering  
   - __genre_clustering__  
-    > 약 31종류의 장르가 있음.  
-    > 13개의 cluster로 clustering  
+  
+   > 약 31종류의 장르가 있음.  
+   > 13개의 cluster로 clustering  
   <br>
   <br>
   
