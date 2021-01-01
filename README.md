@@ -52,7 +52,7 @@
   
    > 약 31종류의 장르가 있음.  
    > 13개의 cluster로 clustering  
-  <br>
+   <p>
   
  - ## valid 채우는 방법  
     > __valid__: 채워야할 플레이리스트  
