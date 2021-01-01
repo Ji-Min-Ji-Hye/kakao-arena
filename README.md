@@ -6,9 +6,8 @@
    
   > 제공데이터: song_meta, genre, train, valid  
   > 생성데이터: All, song_artist_genre_toptags_id, tag_clustering, genre_clustering  
-<br>
-
-
+<p>
+  
 -------------------------------------------------------------------------------------------------------------------
 - ## Data
   - __song_meta__  
@@ -28,10 +27,7 @@
   
   <img src="https://user-images.githubusercontent.com/57060127/91639565-8783c880-ea52-11ea-8b03-ffcfb3a6e286.JPG" width="25%"></img>
   <br>
-  <br>
-  <br>
-  <br>
-
+  
 - ## Generating Data :분석하기 쉬운 형태로 정리한 데이터  
   - __All: 노래별 태그 분리__  
   > 노래특성에 가장 큰 영향을 줄 것이라고 예상되는  __장르,노래이름,가수,태그__ 값을 하나의 데이터로 정리함  
@@ -45,11 +41,10 @@
   > 태그정보가 있는 csv에는 노래가 id값으로 들어가 있고, 플레이리스트별 태그정보가 있음  
   (단일노래기준 태그정보 없음)  
   > 노래별 태그 빈도수를 알아보기위해 노래별 높은 빈도수로 태그를 정리함  
-  
+ 
   <img src="https://user-images.githubusercontent.com/57060127/91657797-f585c980-eafe-11ea-94f5-448ceae9f0bf.JPG" width="100%"></img>
   <br>
-  <br>
-  
+ 
   - __tag_clustering__  
   
    > 100개의 cluster로 clustering  
@@ -58,17 +53,10 @@
    > 약 31종류의 장르가 있음.  
    > 13개의 cluster로 clustering  
   <br>
-  <br>
-   
-  
   
  - ## valid 채우는 방법  
     > __valid__: 채워야할 플레이리스트  
- 
-   <br>
-   <br>
-   
-   
+    <p>
   
   - tag가 있다면?  
     - valid에 있는 플레이리스트안에 노래id의 태그를 확인 => 가장 많이 나온 태그를 추출 => 많이 등장한 태그가 노래 태그에 상위권에 있는 노래로 플레이리스트 채우기, 태그 채우기    
